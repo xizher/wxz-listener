@@ -1,2 +1,2 @@
-# wxz-listener
-@wxz/listener::: JavaScript 监听器类
+# @wxz/listener::: JavaScript 监听器类
+

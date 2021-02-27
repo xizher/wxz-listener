@@ -1,0 +1,32 @@
+{
+  "name": "@wxz/listener",
+  "version": "1.0.0",
+  "description": "@wxz/listener::: JavaScript 监听器类",
+  "main": "dist/index.js",
+  "type": "module",
+  "scripts": {
+    "tsc": "npx tsc -w",
+    "test": "nodemon --exec npx jest jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xizher/wxz-listener.git"
+  },
+  "jest": {
+    "preset": "rollup-jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xizher/wxz-listener/issues"
+  },
+  "homepage": "https://github.com/xizher/wxz-listener#readme",
+  "devDependencies": {
+    "jest": "^26.6.3",
+    "nodemon": "^2.0.7",
+    "rollup": "^2.40.0",
+    "rollup-jest": "^1.1.1",
+    "typescript": "^4.2.2"
+  }
+}
