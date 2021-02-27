@@ -1,5 +1,5 @@
 {
-  "name": "@wxz/listener",
+  "name": "@xizher/listener",
   "version": "1.0.1",
   "description": "@wxz/listener::: JavaScript 监听器类",
   "main": "dist/index.js",
